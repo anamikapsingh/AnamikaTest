@@ -1,6 +1,7 @@
 # GitHub Actions Fundamentals
 
-Updating to see if worhflow (actions) is triggered.
+Updating with [skipci] to see if workflow (actions) is triggered.
+Updating to see if workflow (actions) is triggered.
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
