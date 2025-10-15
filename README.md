@@ -1,5 +1,6 @@
 # GitHub Actions Fundamentals
 
+Updating to see if worhflow (actions) is triggered.
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
